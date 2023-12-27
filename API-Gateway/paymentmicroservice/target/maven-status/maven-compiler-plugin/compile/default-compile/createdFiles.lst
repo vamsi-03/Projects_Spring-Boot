@@ -1,0 +1,5 @@
+com\indiumsoft\paymentmicroservice\repository\PaymentRepository.class
+com\indiumsoft\paymentmicroservice\entity\Payment.class
+com\indiumsoft\paymentmicroservice\PaymentmicroserviceApplication.class
+com\indiumsoft\paymentmicroservice\service\PaymentService.class
+com\indiumsoft\paymentmicroservice\controller\PaymentController.class
